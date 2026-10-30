@@ -1,0 +1,6 @@
+{
+  "name": "MtaaWatch AI",
+  "description": "AI-Powered Community Problem Detection and Smart Reporting Platform for Kenyan communities. Smarter Communities. Cleaner Cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
